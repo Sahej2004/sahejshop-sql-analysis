@@ -56,7 +56,7 @@ The project includes SQL queries to analyze:
 
 The database relationships are represented using an Entity Relationship Diagram (ERD).
 
-![Database ER Diagram](er-diagram.png)
+![Database ER Diagram](./database-erd.png)
 
 ## 📈 Query Results
 
